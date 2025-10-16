@@ -1,0 +1,148 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract technology background for hero section.",
+      "imageUrl": "https://picsum.photos/seed/tech-hero/1920/1080",
+      "imageHint": "abstract technology"
+    },
+    {
+      "id": "project-1",
+      "description": "Placeholder for Project One.",
+      "imageUrl": "https://picsum.photos/seed/project1/600/400",
+      "imageHint": "web application"
+    },
+    {
+      "id": "project-2",
+      "description": "Placeholder for Project Two.",
+      "imageUrl": "https://picsum.photos/seed/project2/600/400",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "project-3",
+      "description": "Placeholder for Project Three.",
+      "imageUrl": "https://picsum.photos/seed/project3/600/400",
+      "imageHint": "cloud dashboard"
+    },
+    {
+      "id": "project-4",
+      "description": "Placeholder for Project Four.",
+      "imageUrl": "https://picsum.photos/seed/project4/600/400",
+      "imageHint": "ai analytics"
+    },
+    {
+      "id": "project-5",
+      "description": "Placeholder for Project Five.",
+      "imageUrl": "https://picsum.photos/seed/project5/600/400",
+      "imageHint": "saas platform"
+    },
+    {
+      "id": "project-6",
+      "description": "Placeholder for Project Six.",
+      "imageUrl": "https://picsum.photos/seed/project6/600/400",
+      "imageHint": "translation service"
+    },
+    {
+      "id": "team-member-1",
+      "description": "Photo of CEO Jane Doe.",
+      "imageUrl": "https://picsum.photos/seed/ceo/400/400",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "team-member-2",
+      "description": "Photo of CTO John Smith.",
+      "imageUrl": "https://picsum.photos/seed/cto/400/400",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "team-member-3",
+      "description": "Photo of Lead Designer Emily White.",
+      "imageUrl": "https://picsum.photos/seed/designer/400/400",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "team-member-4",
+      "description": "Photo of Project Manager Michael Brown.",
+      "imageUrl": "https://picsum.photos/seed/pm/400/400",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "testimonial-avatar-1",
+      "description": "Avatar of client from Innovate Inc.",
+      "imageUrl": "https://picsum.photos/seed/client1/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "testimonial-avatar-2",
+      "description": "Avatar of client from Enterprise Solutions.",
+      "imageUrl": "https://picsum.photos/seed/client2/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "testimonial-avatar-3",
+      "description": "Avatar of client from Startup Hub.",
+      "imageUrl": "https://picsum.photos/seed/client3/100/100",
+      "imageHint": "person avatar"
+    },
+    {
+      "id": "about-us-culture",
+      "description": "Image representing company culture.",
+      "imageUrl": "https://picsum.photos/seed/culture/600/400",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "about-us-mission",
+      "description": "Image representing company mission.",
+      "imageUrl": "https://picsum.photos/seed/mission/600/400",
+      "imageHint": "abstract future"
+    },
+    {
+      "id": "about-us-vision",
+      "description": "Image representing company vision.",
+      "imageUrl": "https://picsum.photos/seed/vision/600/400",
+      "imageHint": "innovation technology"
+    },
+    {
+      "id": "careers-hero",
+      "description": "Image for the careers page hero section.",
+      "imageUrl": "https://picsum.photos/seed/careers/1920/400",
+      "imageHint": "modern office"
+    },
+    {
+      "id": "contact-us",
+      "description": "Image for the contact page.",
+      "imageUrl": "https://picsum.photos/seed/contact/600/400",
+      "imageHint": "communication"
+    },
+    {
+      "id": "services-hero",
+      "description": "Image for the services page hero section.",
+      "imageUrl": "https://picsum.photos/seed/services/1920/400",
+      "imageHint": "technology services"
+    },
+    {
+      "id": "web-development",
+      "description": "Image for the web development service page.",
+      "imageUrl": "https://picsum.photos/seed/webdev/1200/600",
+      "imageHint": "code editor"
+    },
+    {
+      "id": "cloud-solutions",
+      "description": "Image for the cloud solutions service page.",
+      "imageUrl": "https://picsum.photos/seed/cloud/1200/600",
+      "imageHint": "data center"
+    },
+    {
+      "id": "ai-integration",
+      "description": "Image for the AI integration service page.",
+      "imageUrl": "https://picsum.photos/seed/ai/1200/600",
+      "imageHint": "artificial intelligence"
+    },
+    {
+      "id": "mobile-apps",
+      "description": "Image for the mobile apps service page.",
+      "imageUrl": "https://picsum.photos/seed/mobile/1200/600",
+      "imageHint": "smartphone screen"
+    }
+  ]
+}

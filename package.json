@@ -7,9 +7,12 @@
     "build": "next build --turbopack",
     "start": "next start",
     "lint": "eslint",
-    "prepare": "husky"
+    "prepare": "husky",
+    "genkit:dev": "genkit start -- tsx src/ai/dev.ts",
+    "genkit:watch": "genkit start -- tsx --watch src/ai/dev.ts"
   },
   "dependencies": {
+    "@genkit-ai/google-genai": "^1.21.0",
     "@hookform/resolvers": "^5.2.2",
     "@radix-ui/react-accordion": "^1.2.12",
     "@radix-ui/react-alert-dialog": "^1.1.15",
@@ -42,6 +45,7 @@
     "cmdk": "^1.1.1",
     "date-fns": "^4.1.0",
     "embla-carousel-react": "^8.6.0",
+    "genkit": "^1.21.0",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.546.0",
     "motion": "^12.23.24",
@@ -70,8 +74,9 @@
     "lint-staged": "^16.2.4",
     "prettier": "3.6.2",
     "tailwindcss": "^4",
+    "tsx": "^4.20.6",
     "tw-animate-css": "^1.4.0",
-    "typescript": "^5"
+    "typescript": "^5.9.3"
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
